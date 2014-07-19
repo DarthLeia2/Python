@@ -2,7 +2,7 @@
 Created on Jul 11, 2014
 Projects for Python Mastery completed 7/16/14 
 Fibonacci sequence. Number of digits determined by user input.
-@author: Elizabeth
+@author: EM
 '''
 
 

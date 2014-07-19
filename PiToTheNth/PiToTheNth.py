@@ -1,9 +1,9 @@
 '''
 Created on Jul 16, 2014
 
-@author: Elizabeth
+@author: EM
 
-Projects for Python Mastery completed 7/15/14 by Elizabeth Mort.
+Projects for Python Mastery completed 7/15/14
 '''
 import math
 
